@@ -1,3 +1,20 @@
+# TEST CASES - Nginx with Keycloak Authentication
+
+**Submitted By:** *(Your Name)*  
+**Submitted To:** *(Reviewer’s Name)*  
+**Test Case Version:** *1.0*  
+**Reviewer Name:** *(Reviewer’s Name)*  
+
+---
+
+## Goal
+The objective of this project is to set up **Nginx as a reverse proxy** and integrate it with **Keycloak for authentication**.  
+- A user request is sent to **Nginx (Reverse Proxy)**.  
+- Nginx **forwards the request to Keycloak** for authentication.  
+- If authentication is successful, **Nginx forwards the request to the backend**.  
+- If authentication fails, **Nginx returns an error or redirects the user to the login page**.  
+
+---
 # Environment Setup Test Cases  
 
 ## **TC1: Verify Podman Installation**  
