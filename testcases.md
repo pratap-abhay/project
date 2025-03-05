@@ -247,7 +247,4 @@ The objective of this project is to set up **Nginx as a reverse proxy** and inte
 **Result:** Pending/Pass/Fail  
 
 **Testing Outputs:** Pending- Attach API response or log screenshot  
-
 ---
-
-End of testcases
