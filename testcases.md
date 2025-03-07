@@ -32,8 +32,7 @@ The objective of this project is to set up **Nginx as a reverse proxy** and inte
 - The system should display the installed Podman version.  
 
 **Test Run**  
-**Date:**   
-
+**Date:** --/--/--   
 **Result:** Pending/Pass/Fail  
 
 **Testing Outputs:** Pending- Paste screenshot of terminal output 
@@ -248,6 +247,4 @@ The objective of this project is to set up **Nginx as a reverse proxy** and inte
 **Result:** Pending/Pass/Fail  
 
 **Testing Outputs:** Pending- Attach API response or log screenshot  
-
 ---
-
